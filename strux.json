@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "type": "web",
+  "root": "site",
+  "build": "node build.mjs",
+  "output": "public"
+}

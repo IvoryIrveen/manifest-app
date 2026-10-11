@@ -1,0 +1,8 @@
+node_modules/
+dist/
+out/
+build/
+.next/
+*.log
+.DS_Store
+site/public/
