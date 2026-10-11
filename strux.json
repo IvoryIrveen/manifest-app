@@ -3,5 +3,6 @@
   "type": "web",
   "root": "site",
   "build": "node build.mjs",
-  "output": "public"
+  "output": "public",
+  "framework": "custom"
 }
